@@ -1,5 +1,5 @@
 version: 1
 cron:
-  - name: "task12345"
+  - name: "task123456"
     url: "/scheduled"
     schedule: "* * * * *"
